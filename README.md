@@ -26,4 +26,4 @@ This app evaluates goodness-of-fit metrics for simulated and observed hydrograph
 
 - The app requires the input data to be in the exact format shown in the sample CSV file.
 - The goodness-of-fit metric formulas used in the app are included as comments inside the script.
-- The Date should be in DDMMMYYY format and Time should be in HH:MM format
+- The Date should be in DDMMMYYYY format and Time should be in HH:MM format
